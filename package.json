@@ -1,0 +1,19 @@
+{
+  "name": "relevant-article",
+  "version": "1.0.0",
+  "description": "A set of utilities to compare articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamchairs/relevant-article.git"
+  },
+  "author": "Micah Williamson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamchairs/relevant-article/issues"
+  },
+  "homepage": "https://github.com/iamchairs/relevant-article#readme"
+}
